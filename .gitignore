@@ -1,0 +1,13 @@
+logs/*
+!.gitkeep
+node_modules/
+tmp
+.DS_Store
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+
+data/
